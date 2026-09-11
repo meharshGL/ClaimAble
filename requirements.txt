@@ -2,3 +2,6 @@ langgraph
 langchain-anthropic 
 langchain-core 
 python-dotenv
+fastapi
+uvicorn[standard]
+python-multipart
